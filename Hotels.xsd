@@ -16,11 +16,11 @@
                     <xs:element name="City" type="xs:string" />
                     <xs:element name="State" type="xs:string" />
                     <xs:element name="Zip" type="xs:int" />
+                    <xs:element name="NearstAirport" type="xs:string" minOccurs="1"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
-              <xs:element name="NearstAirport" type="xs:string" minOccurs="1"/>
-              <xs:element name="Rating" type="xs:double" minOccurs="0"/>
+             <xs:element name="Rating" type="xs:double" minOccurs="0"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>

@@ -2,6 +2,7 @@
 <Hotel>
   <Hotel>
     <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
     <Address>
       <Number>11</Number>
       <Street>E.7th St</Street>
@@ -9,20 +10,17 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <NearstAirport>SkyHarbor</NearstAirport>
     <Rating>4.2</Rating>
   </Hotel>
   <Hotel>
     <Name>THE IROQUOIS NEW YoRK</Name>
-    <Name>THE PAN PACIFIC HOTEL</Name>
-    <Phone>212-840-3080</Phone>
-    <Phone>212-453-4067</Phone>
     <Address>
       <Number>49</Number>
       <Street>W 44th St</Street>
       <City>New York</City>
       <State>NY</State>
       <Zip>10036</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
   </Hotel>
   <Hotel>
@@ -34,11 +32,12 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10036</Zip>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
+    </Address>
     <Rating>4.6</Rating>
   </Hotel>
   <Hotel>
-    <Name>MANDARIN ORIENTAL HOTEL</Name>
+    <Name>THE PAN PACIFIC HOTEL</Name>
     <Phone>415-276-9888</Phone>
     <Phone>415-615-6000</Phone>
     <Address>
@@ -47,11 +46,12 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94104</Zip>
-    </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
+
   </Hotel>
   <Hotel>
     <Name>THE PAN PACIFIC HOTEL</Name>
+    <Name>MANDARIN ORIENTAL HOTEL</Name>
     <Phone>415-771-8600</Phone>
     <Address>
       <Number>500</Number>
@@ -59,8 +59,8 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94102</Zip>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
     </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
     <Rating>4.0</Rating>
   </Hotel>
   <Hotel>
@@ -73,8 +73,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>THE SHORHAM</Name>
@@ -85,8 +85,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
     <Rating>4.0</Rating>
   </Hotel>
   <Hotel>
@@ -99,8 +99,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>THE SHORHAM</Name>
@@ -111,8 +111,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>Providence (PVD) Airport</NearstAirport>
     </Address>
-    <NearstAirport>Providence (PVD) Airport</NearstAirport>
     <Rating>3.8</Rating>
   </Hotel>
   <Hotel>
@@ -125,8 +125,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>John F. Kennedy International Airport</NearstAirport>
     </Address>
-    <NearstAirport>John F. Kennedy International Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>SAN REMO HOTEL</Name>
@@ -137,8 +137,8 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94102</Zip>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
     </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
     <Rating>3.5</Rating>
   </Hotel>
-</Hotel>
+</Hotels>

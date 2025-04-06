@@ -9,8 +9,8 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
+      <NearstAirport>SkyHarbor</NearstAirport>
     </Address>
-    <NearstAirport>SkyHarbor</NearstAirport>
     <Rating>4.2</Rating>
   </Hotel>
   <Hotel>
@@ -23,8 +23,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10036</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>HOTEL GIRAFFE</Name>
@@ -35,8 +35,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10036</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
     <Rating>4.6</Rating>
   </Hotel>
   <Hotel>
@@ -49,8 +49,8 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94104</Zip>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
     </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>THE PAN PACIFIC HOTEL</Name>
@@ -61,8 +61,8 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94102</Zip>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
     </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
     <Rating>4.0</Rating>
   </Hotel>
   <Hotel>
@@ -75,8 +75,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>THE SHORHAM</Name>
@@ -87,8 +87,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
     <Rating>4.0</Rating>
   </Hotel>
   <Hotel>
@@ -101,8 +101,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
     </Address>
-    <NearstAirport>LaGuardia Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>THE SHORHAM</Name>
@@ -113,8 +113,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>Providence (PVD) Airport</NearstAirport>
     </Address>
-    <NearstAirport>Providence (PVD) Airport</NearstAirport>
     <Rating>3.8</Rating>
   </Hotel>
   <Hotel>
@@ -127,8 +127,8 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+      <NearstAirport>John F. Kennedy International Airport</NearstAirport>
     </Address>
-    <NearstAirport>John F. Kennedy International Airport</NearstAirport>
   </Hotel>
   <Hotel>
     <Name>SAN REMO HOTEL</Name>
@@ -139,8 +139,8 @@
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94102</Zip>
+      <NearstAirport>San Francisco International Airport</NearstAirport>
     </Address>
-    <NearstAirport>San Francisco International Airport</NearstAirport>
     <Rating>3.5</Rating>
   </Hotel>
 </Hotels>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+  <Hotel>
+    <Name>Westin</Name>
+    <Address>
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <NearstAirport>SkyHarbor</NearstAirport>
+    <Rating>4.2</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>THE IROQUOIS NEW YoRK</Name>
+    <Name>THE PAN PACIFIC HOTEL</Name>
+    <Phone>212-840-3080</Phone>
+    <Phone>212-453-4067</Phone>
+    <Address>
+      <Number>49</Number>
+      <Street>W 44th St</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>HOTEL GIRAFFE</Name>
+    <Phone>212-685-7700</Phone>
+    <Address>
+      <Number>365</Number>
+      <Street>Park Avenue South</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    <NearstAirport>LaGuardia Airport</NearstAirport>
+    <Rating>4.6</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>MANDARIN ORIENTAL HOTEL</Name>
+    <Phone>415-276-9888</Phone>
+    <Phone>415-615-6000</Phone>
+    <Address>
+      <Number>222</Number>
+      <Street>Sansone Street</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94104</Zip>
+    </Address>
+    <NearstAirport>San Francisco International Airport</NearstAirport>
+  </Hotel>
+  <Hotel>
+    <Name>THE PAN PACIFIC HOTEL</Name>
+    <Phone>415-771-8600</Phone>
+    <Address>
+      <Number>500</Number>
+      <Street>Post Street</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94102</Zip>
+    </Address>
+    <NearstAirport>San Francisco International Airport</NearstAirport>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>The Time New York</Name>
+    <Phone>212-246-5252</Phone>
+    <Phone>480-968-8885</Phone>
+    <Address>
+      <Number>224</Number>
+      <Street>West 49th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <NearstAirport>LaGuardia Airport</NearstAirport>
+  </Hotel>
+  <Hotel>
+    <Name>THE SHORHAM</Name>
+    <Phone>415-771-1142</Phone>
+    <Address>
+      <Number>33</Number>
+      <Street>West 55th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <NearstAirport>LaGuardia Airport</NearstAirport>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>SAN CARLOS</Name>
+    <Phone>212-246-1234</Phone>
+    <Phone>212-688-9778 </Phone>
+    <Address>
+      <Number>150</Number>
+      <Street>East 50th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <NearstAirport>LaGuardia Airport</NearstAirport>
+  </Hotel>
+  <Hotel>
+    <Name>THE SHORHAM</Name>
+    <Phone>415-431-1142</Phone>
+    <Address>
+      <Number>131</Number>
+      <Street>Madison Avenue</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <NearstAirport>Providence (PVD) Airport</NearstAirport>
+    <Rating>3.8</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>RIHGA HOTEL</Name>
+    <Phone>212-307-5000 </Phone>
+    <Phone>212-688-9778 </Phone>
+    <Address>
+      <Number>151</Number>
+      <Street>West 54th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <NearstAirport>John F. Kennedy International Airport</NearstAirport>
+  </Hotel>
+  <Hotel>
+    <Name>SAN REMO HOTEL</Name>
+    <Phone>415-776-8688</Phone>
+    <Address>
+      <Number>2237 </Number>
+      <Street>Mason Street</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94102</Zip>
+    </Address>
+    <NearstAirport>San Francisco International Airport</NearstAirport>
+    <Rating>3.5</Rating>
+  </Hotel>
+</Hotel>
